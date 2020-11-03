@@ -1,0 +1,19 @@
+h1{
+    text-align: center;
+    font-family: STKaiti ;
+    font-size: 40px;
+    font-weight: bold;
+}
+h2{
+    margin-left: 100px;
+    margin-right: 100px;
+    font-family: STKaiti ;
+    font-size: 25px;
+    font-weight: bold;
+}
+p{
+    margin-left: 150px;
+    margin-right: 150px;
+    font-family: STKaiti ;
+    font-size: 20px;
+}
